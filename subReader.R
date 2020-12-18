@@ -1,10 +1,3 @@
-#### READ ME ####
-# All .txt files must be in ANSI format
-# subs retrieved from http://www.tvsubtitles.net/tvshow-65-1.html
-# subs retrieved from https://www.opensubtitles.org/en/search/subs
-# subs converted with https://subtitletools.com/convert-subtitles-to-plain-text-online
-# currently only season 1 - missing episodes 10-15
-
 #### Sub Reader ####
 # import libraries
 library(tidyverse)
