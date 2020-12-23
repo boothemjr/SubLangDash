@@ -10,3 +10,5 @@
 * Subtitles retrieved from [TVSubtitles.net](http://www.tvsubtitles.net/tvshow-65-1.html) and [OpenSubtitles.org](https://www.opensubtitles.org/en/search/subs).
 * Subtitles converted with [SubtitleTools.com](https://subtitletools.com/convert-subtitles-to-plain-text-online).
 * Corpora retrieved from ["120 Million Word Spanish Corpus"](https://www.kaggle.com/rtatman/120-million-word-spanish-corpus).
+* acylam and Zyke over at [discoRd](https://discord.gg/wmkCdwK).
+* Xavier Ochoa for introducing me to R in the first place.
